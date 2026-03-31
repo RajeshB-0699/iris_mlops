@@ -205,7 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 <<<<<<< HEAD
+<<<<<<< HEAD
 __marimo__/
 =======
 __marimo__/
 >>>>>>> 9f43304 (Pushing changes)
+=======
+__marimo__/
+>>>>>>> 9f4330420dbf0898a3e6005f703f9176e43ba120
